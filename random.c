@@ -1,7 +1,7 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 
-int random (int array[], int n) //Gubenko Olesya 112
+int randomize (int array[], int n) //Gubenko Olesya 112
 //funksiya generiruet tcelochislenniy massiv i dubliruet ego (poluchaem dva odinakovikh sgenerirovannih massiva
 {
 	int i;

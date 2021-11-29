@@ -1,4 +1,3 @@
-#include <stdlib.h>
 #include <stdio.h>
 
 int check_array(int array[], int ind[], int n) //Gubenko Olesya 112

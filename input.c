@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <cstdlib>
 
-int input (int array[], int n)
+int input (int array[], int n) //Gubenko Olesya 112
 {
 	int i;
 	FILE *IN = fopen("input_data.txt", "r");

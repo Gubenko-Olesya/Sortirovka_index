@@ -20,7 +20,7 @@ int main(void) //Gubenko Olesya 112
 		return -1;
 	}
 	if (a==1) {
-		random(array, SIZE);
+		randomize(array, SIZE);
 		//esli massiv bil sgenerirovan, raspechativaem ego v file
 		input_data = fopen("input_data.txt", "w");
 		if (input_data == NULL) {
